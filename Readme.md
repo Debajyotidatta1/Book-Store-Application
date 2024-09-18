@@ -139,3 +139,5 @@ Users can submit feedback on products, which is displayed for other users to vie
 1. Clone the repository:
    ```bash
    git clone https://github.com/Debajyotidatta1/Book-Store-Application.git
+2. Make sure that you have downloaded all the necessary dependencies available in pom.xml
+3. Navigate to the BookStoreApplication.java file to run the project. 
